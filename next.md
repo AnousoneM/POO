@@ -7,6 +7,7 @@ Pour la réalisation de vos diagrammes de classe, il faudra au préalable instal
 * **StarUML** ( http://staruml.io/download ).  
 
 ***Penser à respecter l'utilisation de l'anglais dans tous les exercices.***  
+***Soigner votre css.***  
 ***Pour les exercices, les attributs seront de type PRIVATE et les méthodes seront de type PUBLIC.***  
 
 > **INSTANCIER** : Au final, c bien pratique un objet :)
@@ -57,7 +58,7 @@ Dans une page ***index.php*** :
     * **solde** = 10000.
     * **taux d'intérêt** = 1.9%.
     * **devise** = euros.
-4. Afficher les attributs de l'objets via un **echo**. (Ex. Bonjour **Ariel**, vous venez d'ouvrir un compte avec un taux d'intérêt de **1.9%** et vous y avez déposé un montant de **10000** euros ...)
+4. Afficher les attributs de l'objets via un **echo**. (Ex. Bonjour **Ariel**, vous venez d'ouvrir un compte avec un taux d'intérêt de **1.9%** et vous y avez déposé un montant de **10000** **euros** ...)
 
 5. Appeler la méthode **créditer** avec comme *paramètre* un **montant** de **1250** euros.
 
