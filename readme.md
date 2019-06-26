@@ -1,6 +1,6 @@
 # POO
 
-> Découverte de la Programmation Orientée Objet : Définir les comportements d'un objet.  
+> Découverte de la Programmation Orientée Objet  
 
 Pour la réalisation de vos diagrammes de classe, il faudra au préalable installer :  
 
@@ -9,7 +9,7 @@ Pour la réalisation de vos diagrammes de classe, il faudra au préalable instal
 ***Penser à respecter l'utilisation de l'anglais dans tous les exercices.***  
 ***Pour les exercices, les attributs seront de type PRIVATE et les méthodes seront de type PUBLIC.***  
 
-> Commençons par une petite introduction simple via un diagramme de classes et une petite notion d'héritage ;)
+> **CONCEPTION/CREATION** : Commençons par une petite introduction simple via un diagramme de classes et une petite notion d'héritage ;)
 
 ## Exercice 1
 Sous ***StarUML***, créer la classe : **Employé**.  
@@ -34,4 +34,4 @@ Sous ***StarUML***, rajouter à la classe : **Cadre**, la méthode suivante :
 * **avoir des responsabilités**.
 
 ## Exercice 5
-Sous ***StarUML***, dans **Tools**, rajouter l'extension **PHP** et générer les classes dans un fichier **"laManu.php"**.
+Sous ***StarUML***, dans **Tools**, rajouter l'extension **PHP** puis générer les classes dans un fichier **"laManu.php"**.

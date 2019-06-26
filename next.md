@@ -1,3 +1,16 @@
+# POO
+
+> Découverte de la Programmation Orientée Objet  
+
+Pour la réalisation de vos diagrammes de classe, il faudra au préalable installer :  
+
+* **StarUML** ( http://staruml.io/download ).  
+
+***Penser à respecter l'utilisation de l'anglais dans tous les exercices.***  
+***Pour les exercices, les attributs seront de type PRIVATE et les méthodes seront de type PUBLIC.***  
+
+> **INSTANCIER** : Au final, c bien pratique un objet :)
+
 ## Exercice NEW
 Sous ***StarUML***, créer la classe : **Compte Bancaire** avec les éléments suivants :
 
