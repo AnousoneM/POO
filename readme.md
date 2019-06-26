@@ -34,4 +34,4 @@ Sous ***StarUML***, rajouter à la classe : **Cadre**, la méthode suivante :
 * **avoir des responsabilités**.
 
 ## Exercice 5
-Sous ***StarUML***, dans **Tools**, rajouter l'extension **PHP** puis générer les classes dans un fichier **"laManu.php"**.
+Sous ***StarUML***, dans **Tools**, rajouter l'extension **PHP** puis générer les classes dans un fichier **"lhFactory.php"**.

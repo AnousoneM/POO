@@ -11,27 +11,28 @@ Pour la réalisation de vos diagrammes de classe, il faudra au préalable instal
 
 > **INSTANCIER** : Au final, c bien pratique un objet :)
 
-## Exercice NEW
+## Exercice 1
 Sous ***StarUML***, créer la classe : **Compte Bancaire** avec les éléments suivants :
 
 Attributs :
 * **titulaire** de type *string*.
-* **solde** de type *double*.
-* **devise** de type *string*. (*exemple de devise : dollars*)
+* **solde** de type *integer*.
+* **taux d'intérêt** de type *integer*.
+* **devise** de type *string*. (*exemple de devise : euros*)
 
 Méthodes :
-* **créditer** de type *void*, qui prendra comme paramètre un **montant** de type *double*.
-* **débiter** de type *void*, qui prendra comme paramètre un **montant** de type *double*.
+* **créditer** qui prendra comme paramètre un **montant** de type *integer*.
+* **débiter** qui prendra comme paramètre un **montant** de type *integer*.
 
-## Exercice 6
-> Après avoir réalisé des modélisations ***UML*** *simples*, nous allons créer une classe dans **Visual Studio**, dans une **application console**.
+## Exercice 2
+> Après avoir réalisé des modélisations ***UML*** *simples*, nous allons nous baser sur notre diagramme pour créer une classe en **PHP**, dans une page **"bankAccount.php"**.
 
-Sous ***Visual Studio***, créer la classe : **Compte Bancaire** selon le diagramme de classe précédemment créé dans l'**exercice 5**.
+Via votre ***IDE***, créer la classe : **Compte Bancaire** selon le diagramme de classe précédemment créé dans l'**exercice 1**.
 
-## Exercice 7
-Sous ***Visual Studio***, dans la classe: **Compte Bancaire** modifier les méthodes suivantes :
-* **créditer** : Faire en sorte que la méthode **crédite** le **solde** du **montant** saisi. (EX. *Rajouter(250) = Solde + 250*)
-* **débiter** : Faire en sorte que la méthode **débite** le **solde** du **montant** saisi. (EX. *Soustraire(250) = Solde - 250*)
+## Exercice 3
+Dans la classe: **Compte Bancaire** modifier les méthodes suivantes :
+* **créditer** : Faire en sorte que la méthode **crédite** le **solde** du **montant** saisi en paramètre. (EX. *Rajouter(250) = Solde + 250*)
+* **débiter** : Faire en sorte que la méthode **débite** le **solde** du **montant** saisi en paramètre. (EX. *Soustraire(250) = Solde - 250*)
 
 ## Exercice 8
 Sous ***Visual Studio*** :
