@@ -10,7 +10,7 @@ Pour la réalisation de vos diagrammes de classe, il faudra au préalable instal
 ***Soigner votre css.***  
 ***Pour les exercices, les attributs seront de type PRIVATE et les méthodes seront de type PUBLIC.***  
 
-> **INSTANCIER** : Au final, c bien pratique un objet :)
+> **INSTANCIER** : Au final, c'est bien pratique un objet :)
 
 ## Exercice 1
 Sous ***StarUML***, créer la classe : **Compte Bancaire** avec les éléments suivants :
