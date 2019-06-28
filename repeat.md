@@ -41,4 +41,6 @@ Pensez à stocker vos objets dans un tableau pour la suite.
     
      **TIPS** : Faire une boucle *foreach* pour parcourir votre tableau d'objets pour faciliter l'affichages des comptes.  
 
-**A VOS CLAVIER :)**
+**A VOS CLAVIER :)**  
+
+**TOP BONUS :** Faire une boucle pour générer l'objet + l'affichage en même temps ;) !
