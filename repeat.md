@@ -14,8 +14,9 @@
 Dans une page ***index.php*** :
 1. *Charger votre classe* **"bankAccount.php"**.
 2. Il faut **créer 5** comptes avec des **titulaires** et des **soldes** différents : Vous garderez le même **taux d'intérêt** et la même **devise**.  
-Pensez aux arra
-BONUS : 
+**TIPS** : Vous pouvez instancier manuellemment les 5 comptes.  
+Pensez à stocker vos objets dans un tableau pour la suite.  
+**BONUS** : Préparer un tableau multi-dimensionnel pour stocker les informations (Titulaires, Soldes ... ) et faire une boucle pour le parcourir pour créer votre nouveau tableau d'objets.
 3. Vous devez afficher les 5 comptes sous la forme suivante : *Ex.*
     ***
     - Titulaire : John
@@ -36,8 +37,8 @@ BONUS :
     ***
     - Titulaire : Lala
     - Solde : 5000 Euros
-    - Taux d'intérêt : 2.3%
-
-BONUS : 
+    - Taux d'intérêt : 2.3%  
+    
+     **TIPS** : Faire une boucle *foreach* pour parcourir votre tableau d'objets pour faciliter l'affichages des comptes.  
 
 **A VOS CLAVIER :)**
